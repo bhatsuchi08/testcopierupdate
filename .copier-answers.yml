@@ -1,0 +1,7 @@
+# Changes here will be overwritten by Copier
+_commit: 33d7850
+_src_path: https://github.com/bhatsuchi08/test-copier-pdm.git
+module_name: somemod
+project_name: someproj
+some_var1: 1
+some_var2: a
