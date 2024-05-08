@@ -1,6 +1,7 @@
 # Changes here will be overwritten by Copier
-_commit: 33d7850
+_commit: 397a7a3
 _src_path: https://github.com/bhatsuchi08/test-copier-pdm.git
+lint_style: optiml
 module_name: somemod
 project_name: someproj
 some_var1: 1
